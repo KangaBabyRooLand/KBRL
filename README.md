@@ -1,4 +1,4 @@
-# Skinnerbox
+# Skinnerbox 
 
 > A dead simple forkable NFT vending machine
 
